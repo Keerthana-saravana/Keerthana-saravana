@@ -22,12 +22,14 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keerthana-saravana&show_icons=true&theme=nightowl" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keerthana-saravana&theme=nightowl" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" width="49.5%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" width="49.5%">
+</p>
+
+
 
 ---
 
