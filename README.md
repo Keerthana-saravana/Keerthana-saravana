@@ -1,69 +1,52 @@
-<h1 align="center">Hi 👋, I'm Keerthu</h1>
-<h3 align="center">A curious soul crafting voice-powered experiences ⚡</h3>
+<h1 align="center">Hi 👋, I'm Keerthana S</h1>
+<h3 align="center">Creative Coder| AI Explorer | Backend Builder |Problem Slayer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=Voice+Tech+Explorer+🎙️;AI+Learner+🤖;Tanglish+Techie+🧠+%2B+🎭;Always+building+something+cool+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=Python+Developer+🐍;AI+%2B+Voice+Tech+Lover+🎙️;Flask+%7C+Django+Web+Builder+🌐;Tanglish+Coder+🧠+%2B+🎭" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🌟 About Me
+## 🛠️ Tech Stack & Tools
 
-🧠 I'm a **Tech Enthusiast** with a passion for **Voice Technology**, **AI**, and everything that talks back to you – literally.  
-🎙️ I’m currently building a **voice-controlled calculator** and working on **real-time funny voice effects** (like alien voices 👽).  
-💬 My goal is to create **Tanglish-speaking AI bots** that understand local vibes, not just grammar.  
-🎭 I mix **comedy**, **code**, and **creativity** to make learning and building fun.  
+<div align="center">
 
-> "Function meets fun. Intelligence meets entertainment."
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
----
-
-## 💻 Tech Stack & Tools
-
-- 🐍 Python, Flask, Django  
-- 🎤 Speech Recognition, PyDub, Audio Effects  
-- 🌐 HTML, CSS, JS basics  
-- 💽 SQLite, MySQL  
-- ⚙️ C Programming – digging into logic and memory  
-- 📦 Git, GitHub (obviously)  
-- 🧠 Exploring Machine Learning & NLP  
-- 🧪 Currently doing a project on **Blockchain Deployment**
+</div>
 
 ---
 
-## ✨ Interests
+## 📊 GitHub Stats
 
-- 🎙️ Real-Time Voice Transformation  
-- 🤖 Conversational AI (in Tamil + English = Tanglish)  
-- 🎬 Tech + Comedy = Entertainment-focused apps  
-- 💡 Building tools that are *not just smart*, but *fun to use*  
-- 🧩 Mixing traditional coding with creative twists  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=nightowl" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=nightowl" width="48%" />
+</div>
 
 ---
 
-## 🔗 Let's Collaborate
+## 🧠 About Me
 
-🌟 Open to collabs on:  
-- Voice/Audio Projects  
-- NLP Bots  
-- Fun/Entertainment-based AI tools  
-- Tanglish-focused tech
-
-📬 **Feel free to connect or ping me for collabs!**  
-Let’s build something *weirdly wonderful* together 💫
+- 🎙️ I'm building **voice-powered applications** that can talk, react, and even joke!
+- 💡 Fascinated by **Natural Language Processing** and **Voice Effects**.
+- 🧪 Currently learning **C programming** to strengthen my logic base.
+- 🌐 Working on **web projects** using Flask & Django.
+- 🧾 Doing an academic project on **Blockchain Deployment**.
 
 ---
 
-> _“Code is poetry, and mine rhymes in Tanglish.”_
+## 📫 Let's Connect
+
+- 🤝 I'm open to **collaborations** on AI, voice tech, or entertainment-focused tools.
+- 💬 DM me for cool, weird project ideas — I love turning fun concepts into code!
 
 ---
+
+> _“Code should talk, entertain, and solve. That’s my kind of tech.”_
 
