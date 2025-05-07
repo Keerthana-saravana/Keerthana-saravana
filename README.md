@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Keerthana S</h1>
-<h3 align="center">Creative Coder| AI Explorer | Backend Builder |Problem Slayer </h3>
+<h1 align="center">Hi 👋, I'm Keerthu</h1>
+<h3 align="center">Creative Coder  | AI Explorer | Code Whisperer |Backend Builder </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=Python+Developer+🐍;AI+%2B+Voice+Tech+Lover+🎙️;Flask+%7C+Django+Web+Builder+🌐;Tanglish+Coder+🧠+%2B+🎭" alt="Typing SVG" />
@@ -25,8 +25,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=nightowl" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=nightowl" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=keerthana-saravana&show_icons=true&theme=nightowl" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keerthana-saravana&theme=nightowl" width="48%" />
 </div>
 
 ---
@@ -49,4 +49,3 @@
 ---
 
 > _“Code should talk, entertain, and solve. That’s my kind of tech.”_
-
