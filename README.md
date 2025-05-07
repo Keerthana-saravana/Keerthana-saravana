@@ -11,6 +11,7 @@
 I am Keerthana, an aspiring AI engineer with a strong passion for leveraging technology to solve real-world problems. Currently pursuing my degree in Artificial Intelligence and Data Science, I am dedicated to enhancing my skills in software development and AI research. I actively explore Python programming, machine learning and data-driven solutions to create impactful projects. With a mindset focused on continuous learning and growth, I aim to contribute to the advancement of technology through innovative solutions.
 
 > "Striving to turn ideas into impactful solutions through code."
+---
 
 ## 🛠️ Tech Stack & Tools
 
