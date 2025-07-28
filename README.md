@@ -38,14 +38,18 @@ I am Keerthana, an aspiring AI engineer with a strong passion for leveraging tec
 
 
 ---
+🧠 About Me
+🎙️ Currently building a voice calculator that can talk, react, and even crack jokes!
 
-## 🧠 About Me
+💡 Passionate about Natural Language Processing and experimenting with Voice Effects.
 
-- 🎙️ I'm building **voice-powered applications** that can talk, react, and even joke!
-- 💡 Fascinated by **Natural Language Processing** and **Voice Effects**.
-- 🧪 Currently learning **C programming** to strengthen my logic base.
-- 🌐 Working on **web projects** using Flask & Django.
-- 🧾 Doing an academic project on **Blockchain Deployment**.
+🧪 Currently diving into C programming to sharpen my problem-solving skills.
+
+🌐 Developing dynamic web applications using Flask and Django.
+
+🛡️ Exploring ideas in Cybersecurity as part of my academic learning.
+
+📊 Actively strengthening my skills in Python Full Stack Development with a focus on Data Science.
 
 ---
 
