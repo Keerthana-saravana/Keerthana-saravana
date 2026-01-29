@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-I’m **Keerthana**, an **Artificial Intelligence and Data Science** student with a strong interest in building intelligent, interactive, and slightly fun tech solutions 😄. I enjoy working at the intersection of **AI, backend development, and voice technology**, where code doesn’t just work — it *responds, reacts, and entertains*.
+I’m **Keerthana**, an **Artificial Intelligence and Data Science** student with a strong interest in building intelligent, interactive, and slightly fun tech solutions . I enjoy working at the intersection of **AI, backend development, and voice technology**, where code doesn’t just work — it *responds, reacts, and entertains*.
 
 My core strength lies in **Python-based development**, especially using **Flask and Django** for backend systems. I actively experiment with **machine learning concepts, NLP, and voice-based applications**, and I love transforming academic ideas into practical mini-projects.
 
