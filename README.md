@@ -63,8 +63,14 @@ Alongside AI, I’m strengthening my fundamentals in **C programming**, **databa
 ---
 
 ## 📊 GitHub Activity 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keerthana-saravana&theme=tokyonight" />
+</p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keerthana-saravana&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keerthana-saravana&theme=tokyo-night" />
+</p>
+
 
 
 
