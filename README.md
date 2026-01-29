@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keerthana S</h1>
-<h3 align="center">AI & Data Science Student | Python Developer | Voice Tech Explorer | Backend & Web Builder</h3>
+<h3 align="center">AI & Data Science Student | Python Developer | Machine Learning Explorer | Data Science Enthusiast | Backend & Web Builder</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Python+%26+AI+Developer+🐍🤖;Voice+Tech+%26+NLP+Explorer+🎙️🧠;Flask+%7C+Django+Backend+Builder+🌐;Docker+%7C+GitHub+%7C+SQL+Learner+⚙️;Turning+Fun+Ideas+Into+Smart+Code+✨" alt="Typing SVG" />
