@@ -64,10 +64,8 @@ Alongside AI, I’m strengthening my fundamentals in **C programming**, **databa
 
 ## 📊 GitHub Activity 
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=keerthana-saravana&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=keerthana-saravana&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keerthana-saravana&theme=tokyonight" />
+
 
 
 ---
