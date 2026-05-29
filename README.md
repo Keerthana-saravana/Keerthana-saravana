@@ -56,7 +56,7 @@ I love experimenting with innovative ideas, participating in hackathons, and imp
 <div align="center">
 
 ### 👨‍💻 Languages
-<img src="https://skillicons.dev/icons?i=python,c,cpp,javascript" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,java" />
 
 <br><br>
 
@@ -126,7 +126,7 @@ Actively Improving:
 
 # 🌟 Developer Mindset
 
-<div align="center">
+<div align="left">
 
 ✨ Building systems that are intelligent, interactive, and meaningful
 
@@ -140,7 +140,7 @@ Actively Improving:
 
 # 🤝 Let's Connect
 
-<div align="center">
+<div align="left">
 
 💬 Open to collaborations in:
 AI • Backend • Flutter • Computer Vision • Experimental Tech
@@ -153,7 +153,7 @@ AI • Backend • Flutter • Computer Vision • Experimental Tech
 
 ---
 
-<p align="center">
+<p align="left">
 
 ✨ <i>"Good code solves problems. Great code creates experiences."</i> ✨
 
