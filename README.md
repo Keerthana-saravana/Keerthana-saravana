@@ -13,16 +13,6 @@ AI & Data Science Student • Python Developer • AI Explorer • Backend Build
   <img src="https://komarev.com/ghpvc/?username=keerthana-saravana&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
----
-
-# 🌌 Digital Playground
-
-<p align="center">
-  <img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-</p>
-
----
-
 ## 👩‍💻 About Me
 
 I’m an **Artificial Intelligence and Data Science** student passionate about building intelligent, interactive, and meaningful technology. I enjoy exploring how **AI, backend development, mobile applications, and voice technology** can work together to create smart digital experiences. My main focus is on developing practical solutions using **Python, Flask, Django, and Flutter**, while continuously learning modern technologies related to AI and software development.
@@ -80,8 +70,6 @@ I love experimenting with innovative ideas, participating in hackathons, and imp
 
 </div>
 
----
-
 # 🚀 Current Focus
 Currently Exploring:
   - Machine Learning & NLP
@@ -98,7 +86,6 @@ Actively Improving:
   - Real-world Development Skills
 
 
----
 
 # 📊 GitHub Analytics
 
