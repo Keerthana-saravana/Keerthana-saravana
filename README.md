@@ -174,25 +174,18 @@ Actively Improving:
 💬 Open to collaborations in:
 AI • Backend • Flutter • Computer Vision • Experimental Tech
 
-<br><br>
-
 <a href="https://www.linkedin.com/in/keerthana-saravanan-073a34314" target="_blank">
 
 <img src="https://img.shields.io/badge/LinkedIn-Keerthana%20Saravanan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 </a>
 
-<br><br>
-
 ⚡ Always excited to learn, build, and innovate with technology.
 
 </div>
-
----
 
 <p align="center">
 
 ✨ <i>"Good code solves problems. Great code creates experiences."</i> ✨
 
 </p>
-```
