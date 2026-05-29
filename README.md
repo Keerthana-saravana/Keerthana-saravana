@@ -145,8 +145,6 @@ Actively Improving:
 💬 Open to collaborations in:
 AI • Backend • Flutter • Computer Vision • Experimental Tech
 
-<br><br>
-
 ⚡ Always excited to learn, build, and innovate with technology.
 
 </div>
