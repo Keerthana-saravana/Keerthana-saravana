@@ -1,97 +1,154 @@
-<h1 align="center">Hi 👋, I'm Keerthana S</h1>
-<h3 align="center">AI & Data Science Student | Python Developer | Machine Learning Explorer | Data Science Enthusiast | Backend & Web Builder</h3>
+````html
+<h1 align="center">✨ Keerthana S ✨</h1>
+
+<h3 align="center">
+AI & Data Science Student • Python Developer • AI Explorer • Backend Builder • Mobile App Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Python+%26+AI+Developer+🐍🤖;Voice+Tech+%26+NLP+Explorer+🎙️🧠;Flask+%7C+Django+Backend+Builder+🌐;Docker+%7C+GitHub+%7C+SQL+Learner+⚙️;Turning+Fun+Ideas+Into+Smart+Code+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Building+AI+That+Feels+Alive+🤖;Flutter+%7C+Python+%7C+Machine+Learning+🚀;Backend+Developer+with+Creative+Ideas+🌐;Exploring+Voice+AI+%26+Computer+Vision+🎙️🧠;Creating+Smart+%26+Interactive+Experiences+✨" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=keerthana-saravana&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-## 🧠 About Me
+# 🌌 Digital Playground
 
-I’m **Keerthana**, an **Artificial Intelligence and Data Science** student with a strong interest in building intelligent, interactive, and slightly fun tech solutions . I enjoy working at the intersection of **AI, backend development, and voice technology**, where code doesn’t just work — it *responds, reacts, and entertains*.
+<table>
+<tr>
+<td width="55%">
 
-My core strength lies in **Python-based development**, especially using **Flask and Django** for backend systems. I actively experiment with **machine learning concepts, NLP, and voice-based applications**, and I love transforming academic ideas into practical mini-projects.
+## 👩‍💻 About Me
 
-Alongside AI, I’m strengthening my fundamentals in **C programming**, **databases**, and **web technologies**, while also exploring tools like **Docker, GitHub, and data visualization platforms** to prepare for real-world software development.
+✨ AI & Data Science student passionate about building intelligent and interactive systems
 
-> *“I believe good code should solve problems — great code should also feel alive.”*
+🚀 Exploring the intersection of  
+**Artificial Intelligence • Backend Development • Mobile Apps • Voice Technology**
 
----
+🧠 Interested in:
+- Machine Learning
+- NLP & Voice AI
+- Computer Vision
+- Intelligent Automation
+- Backend Engineering
 
-## 🛠️ Tech Stack & Skills
+📱 Currently learning and building with:
+- Flutter
+- Flask
+- Django
+- APIs & AI Integrations
 
-🛠️ Tech Stack & Skills
+🎯 Focused on creating technology that is:
+- Smart
+- Useful
+- Creative
+- Human-friendly
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</div>
+💡 I enjoy transforming ideas into practical solutions that combine logic, creativity, and user experience.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</div>
+</td>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</div>
+<td width="45%">
 
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div>
+<img align="center" alt="Coding" width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Current Focus & Projects
+# ⚡ Tech Arsenal
 
-🎙️ Building a **voice-controlled calculator** that can speak, react, and crack jokes
+<div align="center">
 
-🧠 Exploring **Natural Language Processing** and voice effects
+### 👨‍💻 Languages
+<img src="https://skillicons.dev/icons?i=python,c,cpp,javascript" />
 
-🌐 Developing backend-driven web apps using **Flask & Django**
+### 🌐 Web & Backend
+<img src="https://skillicons.dev/icons?i=flask,django,html,css" />
 
-🧪 Strengthening **C programming** and core problem-solving skills
+### 📱 Mobile & Tools
+<img src="https://skillicons.dev/icons?i=flutter,docker,github,mysql,sqlite" />
 
-📊 Practicing **data handling, SQL, and visualization** for data science workflows
+### 📊 Data & Analytics
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
-🛡️ Exploring **cybersecurity concepts** through academic and mini-projects
+</div>
 
 ---
 
-## 📊 GitHub Activity 
+# 🚀 Current Focus
+
+```yaml
+Currently Exploring:
+  - Machine Learning & NLP
+  - Voice-based AI Systems
+  - Computer Vision Applications
+  - Flutter App Development
+  - Intelligent Backend Systems
+
+Actively Improving:
+  - Problem Solving
+  - API Integration
+  - Database Management
+  - AI Workflows
+  - Real-world Development Skills
+````
+
+---
+
+# 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keerthana-saravana&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=keerthana-saravana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana-saravana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keerthana-saravana&theme=tokyo-night" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=keerthana-saravana&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 </p>
 
-
-
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=keerthana-saravana&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
 
 ---
 
-## 📫 Let’s Connect
+# 🌟 Developer Mindset
 
-* 🤝 Open to **collaborations** in AI, voice tech, backend, or fun experimental projects
-* 💬 Love discussing **weird, creative, and entertainment-focused ideas**
+<div align="center">
 
-> *“Code that talks, reacts, and thinks — that’s the kind of future I’m building.”*
+✨ Building systems that are intelligent, interactive, and meaningful
+🎯 Learning continuously through projects, hackathons, and experimentation
+🚀 Combining creativity with technology to build impactful solutions
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+💬 Open to collaborations in:
+AI • Backend • Flutter • Computer Vision • Experimental Tech
+
+⚡ Always excited to learn, build, and innovate with technology.
+
+</div>
+
+---
+
+<p align="center">
+
+### ✨ “Good code solves problems. Great code creates experiences.” ✨
+
+</p>
+```
