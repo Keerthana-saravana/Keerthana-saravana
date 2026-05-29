@@ -4,29 +4,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=320&text=Keerthana%20S&fontSize=70&fontAlignY=42&fontColor=ffffff&desc=Artificial%20Intelligence%20and%20Data%20Science%20Student&descSize=24&descAlignY=62&animation=fadeIn&color=0:141E30,25:243B55,50:5B247A,75:C33764,100:FF4B2B"/>
 
 </p>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFDEE9&center=true&vCenter=true&width=1200&lines=Python+Developer+🐍;Flutter+%7C+AI+%7C+Machine+Learning+🚀;Backend+Developer+%7C+Creative+Builder+🌐;Exploring+Voice+AI+%26+Computer+Vision+🧠;Building+Smart+%26+Interactive+Experiences+✨" alt="Typing SVG" />
-
-</p>
-
-
 <h3 align="center">
 
-✨ AI & Data Science Student • Python Developer • AI Explorer • Backend Builder • Flutter Developer ✨
-
+✨ AI & Data Science Student • Python Developer • Machine Learning Enthusiast • AI Explorer • Backend Builder • Flutter Developer • Computer Vision Learner • Voice AI Enthusiast ✨
 </h3>
 
 <p align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00E5FF&center=true&vCenter=true&width=1400&lines=Building+AI+That+Feels+Alive+🤖;Flutter+%7C+Python+%7C+Machine+Learning+🚀;Backend+Developer+with+Creative+Ideas+🌐;Exploring+Voice+AI+%26+Computer+Vision+🎙️🧠;Creating+Smart+%26+Interactive+Experiences+✨;Turning+Ideas+Into+Real+World+Solutions+💡" alt="Typing SVG" />
-
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=keerthana-saravana&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
 </p>
 
