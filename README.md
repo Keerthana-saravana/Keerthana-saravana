@@ -15,12 +15,14 @@ AI & Data Science Student • Python Developer • AI Explorer • Backend Build
 
 ---
 
+Replace your entire **🌌 Digital Playground** section with this code:
 # 🌌 Digital Playground
 
-<table>
-<tr>
+<p align="center">
+  <img width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</p>
 
-<td width="55%">
+---
 
 ## 👩‍💻 About Me
 
@@ -49,18 +51,6 @@ AI & Data Science Student • Python Developer • AI Explorer • Backend Build
 - Human-friendly
 
 💡 I enjoy transforming ideas into practical solutions that combine logic, creativity, and user experience.
-
-</td>
-
-<td width="45%">
-
-<img align="center" alt="Coding" width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-</td>
-
-</tr>
-</table>
-
 ---
 
 # ⚡ Tech Arsenal
