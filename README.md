@@ -6,7 +6,7 @@ AI & Data Science Student • Python Developer • AI Explorer • Backend Build
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Building+AI+That+Feels+Alive+🤖;Flutter+%7C+Python+%7C+Machine+Learning+🚀;Backend+Developer+with+Creative+Ideas+🌐;Exploring+Voice+AI+%26+Computer+Vision+🎙️🧠;Creating+Smart+%26+Interactive+Experiences+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=1800&lines=Building+AI+That+Feels+Alive+🤖;Flutter+%7C+Python+%7C+Machine+Learning+🚀;Backend+Developer+with+Creative+Ideas+🌐;Exploring+Voice+AI+%26+Computer+Vision+🎙️🧠;Creating+Smart+%26+Interactive+Experiences+✨" alt="Typing SVG" />
 </p>
 
 <p align="center">
