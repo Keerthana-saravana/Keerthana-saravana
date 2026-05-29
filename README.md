@@ -1,4 +1,4 @@
-````html
+
 <h1 align="center">✨ Keerthana S ✨</h1>
 
 <h3 align="center">
@@ -19,6 +19,7 @@ AI & Data Science Student • Python Developer • AI Explorer • Backend Build
 
 <table>
 <tr>
+
 <td width="55%">
 
 ## 👩‍💻 About Me
@@ -56,6 +57,7 @@ AI & Data Science Student • Python Developer • AI Explorer • Backend Build
 <img align="center" alt="Coding" width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 </td>
+
 </tr>
 </table>
 
@@ -68,15 +70,24 @@ AI & Data Science Student • Python Developer • AI Explorer • Backend Build
 ### 👨‍💻 Languages
 <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript" />
 
+<br><br>
+
 ### 🌐 Web & Backend
 <img src="https://skillicons.dev/icons?i=flask,django,html,css" />
+
+<br><br>
 
 ### 📱 Mobile & Tools
 <img src="https://skillicons.dev/icons?i=flutter,docker,github,mysql,sqlite" />
 
+<br><br>
+
 ### 📊 Data & Analytics
+
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
 </div>
@@ -84,8 +95,6 @@ AI & Data Science Student • Python Developer • AI Explorer • Backend Build
 ---
 
 # 🚀 Current Focus
-
-```yaml
 Currently Exploring:
   - Machine Learning & NLP
   - Voice-based AI Systems
@@ -99,24 +108,30 @@ Actively Improving:
   - Database Management
   - AI Workflows
   - Real-world Development Skills
-````
+
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
+
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=keerthana-saravana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana-saravana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
 </p>
 
 <p align="center">
+
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=keerthana-saravana&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+
 </p>
 
 <p align="center">
+
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=keerthana-saravana&theme=tokyonight&hide_border=true&background=0D1117" />
+
 </p>
 
 ---
@@ -126,7 +141,9 @@ Actively Improving:
 <div align="center">
 
 ✨ Building systems that are intelligent, interactive, and meaningful
+
 🎯 Learning continuously through projects, hackathons, and experimentation
+
 🚀 Combining creativity with technology to build impactful solutions
 
 </div>
@@ -140,6 +157,8 @@ Actively Improving:
 💬 Open to collaborations in:
 AI • Backend • Flutter • Computer Vision • Experimental Tech
 
+<br><br>
+
 ⚡ Always excited to learn, build, and innovate with technology.
 
 </div>
@@ -148,7 +167,7 @@ AI • Backend • Flutter • Computer Vision • Experimental Tech
 
 <p align="center">
 
-### ✨ “Good code solves problems. Great code creates experiences.” ✨
+✨ <i>"Good code solves problems. Great code creates experiences."</i> ✨
 
 </p>
 ```
