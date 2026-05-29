@@ -1,16 +1,7 @@
 
-<h1 align="center">✨ Keerthana S ✨</h1>
-
-<h3 align="center">
-AI & Data Science Student • Python Developer • AI Explorer • Backend Builder • Mobile App Enthusiast
-</h3>
-
+<h1 align="center"> <img src="https://img.shields.io/badge/Keerthana%20S-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF" /> </h1> <h3 align="center"> AI & Data Science Student • Python Developer • AI Explorer • Backend Builder • Mobile App Enthusiast </h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=1800&lines=Building+AI+That+Feels+Alive+🤖;Flutter+%7C+Python+%7C+Machine+Learning+🚀;Backend+Developer+with+Creative+Ideas+🌐;Exploring+Voice+AI+%26+Computer+Vision+🎙️🧠;Creating+Smart+%26+Interactive+Experiences+✨" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=keerthana-saravana&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ## 👩‍💻 About Me
@@ -51,12 +42,12 @@ I love experimenting with innovative ideas, participating in hackathons, and imp
 <br><br>
 
 ### 🌐 Web & Backend
-<img src="https://skillicons.dev/icons?i=flask,django,html,css" />
+<img src="https://skillicons.dev/icons?i=flask,django,html,css,Bootstrap" />
 
 <br><br>
 
 ### 📱 Mobile & Tools
-<img src="https://skillicons.dev/icons?i=flutter,docker,github,mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=flutter,docker,github,mysql,PostgreSQL,sqlite" />
 
 <br><br>
 
@@ -133,10 +124,10 @@ Actively Improving:
 AI • Backend • Flutter • Computer Vision • Experimental Tech
 
 ⚡ Always excited to learn, build, and innovate with technology.
+<br> 🔗 LinkedIn: <a href="https://www.linkedin.com/in/keerthana-saravanan-073a34314" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Keerthana%20Saravanan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <br><br>
 
 </div>
 
----
 
 <p align="left">
 
