@@ -12,16 +12,6 @@
 </p>
 
 
-This gives:
-
-* Full-width professional gradient background
-* Stylish modern shades similar to your reference image
-* Your name clearly highlighted in white
-* Subtitle directly inside the background
-* Clean futuristic UI look
-* Better visibility on GitHub dark/light themes
-
-
 <h3 align="center">
 
 ✨ AI & Data Science Student • Python Developer • AI Explorer • Backend Builder • Flutter Developer ✨
