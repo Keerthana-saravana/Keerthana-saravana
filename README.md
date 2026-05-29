@@ -1,9 +1,26 @@
 
 <p align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&section=header&text=Keerthana%20S&fontSize=80&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=AI%20%26%20Data%20Science%20Student%20|%20Python%20Developer%20|%20Flutter%20Developer%20|%20AI%20Explorer&descAlignY=60&descAlign=50&color=0:0F0C29,20:302B63,40:24243E,60:4A00E0,80:8E2DE2,100:FF0080"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=320&text=Keerthana%20S&fontSize=70&fontAlignY=42&fontColor=ffffff&desc=Artificial%20Intelligence%20and%20Data%20Science%20Student&descSize=24&descAlignY=62&animation=fadeIn&color=0:141E30,25:243B55,50:5B247A,75:C33764,100:FF4B2B"/>
 
 </p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFDEE9&center=true&vCenter=true&width=1200&lines=Python+Developer+🐍;Flutter+%7C+AI+%7C+Machine+Learning+🚀;Backend+Developer+%7C+Creative+Builder+🌐;Exploring+Voice+AI+%26+Computer+Vision+🧠;Building+Smart+%26+Interactive+Experiences+✨" alt="Typing SVG" />
+
+</p>
+
+
+This gives:
+
+* Full-width professional gradient background
+* Stylish modern shades similar to your reference image
+* Your name clearly highlighted in white
+* Subtitle directly inside the background
+* Clean futuristic UI look
+* Better visibility on GitHub dark/light themes
+
 
 <h3 align="center">
 
