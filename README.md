@@ -15,43 +15,41 @@ AI & Data Science Student • Python Developer • AI Explorer • Backend Build
 
 ---
 
-Replace your entire **🌌 Digital Playground** section with this code:
 # 🌌 Digital Playground
 
 <p align="center">
-  <img width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-✨ AI & Data Science student passionate about building intelligent and interactive systems
+I’m an **Artificial Intelligence and Data Science** student passionate about building intelligent, interactive, and meaningful technology. I enjoy exploring how **AI, backend development, mobile applications, and voice technology** can work together to create smart digital experiences. My main focus is on developing practical solutions using **Python, Flask, Django, and Flutter**, while continuously learning modern technologies related to AI and software development.
 
-🚀 Exploring the intersection of  
-**Artificial Intelligence • Backend Development • Mobile Apps • Voice Technology**
+I love experimenting with innovative ideas, participating in hackathons, and improving my skills through real-world projects that combine creativity, logic, and problem-solving.
 
-🧠 Interested in:
+### 🧠 Interested In
+
 - Machine Learning
 - NLP & Voice AI
 - Computer Vision
+- Agentic AI 
 - Intelligent Automation
 - Backend Engineering
+- Flutter App Development
+- AI-powered Applications
+- APIs & System Integration
 
-📱 Currently learning and building with:
-- Flutter
-- Flask
-- Django
-- APIs & AI Integrations
+### 🚀 Currently Learning
 
-🎯 Focused on creating technology that is:
-- Smart
-- Useful
-- Creative
-- Human-friendly
+- Advanced Python Development
+- Flutter & Mobile UI
+- AI Workflows & Automation
+- SQL & Database Management
+- Docker & GitHub
+- Agentic AI
 
-💡 I enjoy transforming ideas into practical solutions that combine logic, creativity, and user experience.
----
 
 # ⚡ Tech Arsenal
 
