@@ -1,5 +1,5 @@
 
-<h1 align="center"> <img src="https://img.shields.io/badge/Keerthana%20S-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF" /> </h1> <h3 align="center"> AI & Data Science Student • Python Developer • AI Explorer • Backend Builder • Mobile App Enthusiast </h3>
+<h1 align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Keerthana%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student%20•%20Python%20Developer%20•%20AI%20Explorer&descAlignY=60&descAlign=50"/> <h3 align="center"> AI & Data Science Student • Python Developer • AI Explorer • Backend Builder • Mobile App Enthusiast </h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=1800&lines=Building+AI+That+Feels+Alive+🤖;Flutter+%7C+Python+%7C+Machine+Learning+🚀;Backend+Developer+with+Creative+Ideas+🌐;Exploring+Voice+AI+%26+Computer+Vision+🎙️🧠;Creating+Smart+%26+Interactive+Experiences+✨" alt="Typing SVG" />
 </p>
