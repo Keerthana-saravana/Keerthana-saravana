@@ -115,25 +115,9 @@ Actively Improving:
 
 # 📊 GitHub Analytics
 
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=keerthana-saravana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana-saravana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</p>
-
-<p align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=keerthana-saravana&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
-
-</p>
-
-<p align="center">
-
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=keerthana-saravana&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</p>
+<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=keerthana-saravana&show_icons=true&theme=tokyonight&hide_border=true"/> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana-saravana&layout=compact&theme=tokyonight&hide_border=true"/> </p> 
+<p align="center"> <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=keerthana-saravana&theme=tokyo-night&hide_border=true"/> </p>
+<p align="center"> <img width="60%" src="https://streak-stats.demolab.com?user=keerthana-saravana&theme=tokyonight&hide_border=true"/> </p>
 
 ---
 
