@@ -53,27 +53,25 @@ I love experimenting with innovative ideas, participating in hackathons, explori
 - Backend Architecture
 - AI Model Integration
 
----
-
 # ⚡ Tech Arsenal
 
 <div align="center">
 
 ### 👨‍💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,java"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java"/>
 
 <br><br>
 
 ### 🌐 Web & Backend
 
-<img src="https://skillicons.dev/icons?i=flask,django,html,css,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=flask,django,html,css,bootstrap,javascript"/>
 
 <br><br>
 
 ### 📱 Mobile & Tools
 
-<img src="https://skillicons.dev/icons?i=flutter,docker,github,mysql,postgresql,sqlite,vscode"/>
+<img src="https://skillicons.dev/icons?i=flutter,docker,github,mysql,postgresql,sqlite,vscode,supabase"/>
 
 <br><br>
 
@@ -85,11 +83,12 @@ I love experimenting with innovative ideas, participating in hackathons, explori
 
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
 </div>
 
----
 
 # 🚀 Current Focus
 
