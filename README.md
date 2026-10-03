@@ -1,7 +1,7 @@
 
 <p align="center">
   <img
-    src="YOUR_GITHUB_IMAGE_URL"
+    src="https://github.com/user-attachments/assets/dbda8a18-659e-4b78-b079-c7a139e2d099"
     width="100%"
     alt="Keerthana S - Artificial Intelligence and Data Science"
   />
