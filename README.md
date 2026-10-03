@@ -351,29 +351,28 @@ I believe the best way to learn technology is to use it to solve meaningful prob
 
 <br>
 
+<h2 align="center">📈 Contribution Activity</h2>
+
 <p align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=keerthana-saravana&theme=tokyo-night&hide_border=true&area=true&custom_title=Keerthana%27s%20Contribution%20Activity"
-  width="95%"
-  alt="Keerthana's GitHub Contribution Activity"
-/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=keerthana-saravana&theme=github-compact&hide_border=true"
+    width="100%"
+    alt="Keerthana's GitHub Contribution Activity"
+  />
 </p>
 
 ---
 
 # 🐍 Contribution Activity
 
+
 <p align="center">
-
-<img
-  src="https://raw.githubusercontent.com/keerthana-saravana/keerthana-saravana/output/github-contribution-grid-snake.svg"
-  width="95%"
-  alt="GitHub Contribution Snake"
-/>
-
+  <img
+    src="https://raw.githubusercontent.com/keerthana-saravana/keerthana-saravana/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
+
 
 ---
 
