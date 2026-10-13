@@ -3,10 +3,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0%3A0F172A%2C50%3A312E81%2C100%3A06B6D4&amp;height=220&amp;section=header&amp;text=Keerthana%20S&amp;fontSize=54&amp;fontColor=FFFFFF&amp;animation=fadeIn" width="100%" alt="Keerthana S — AI and Data Science" />
 
-<h3>AI &amp; Data Science Student · AI Developer · Software Builder</h3>
-
-
-
 <br/>
 
 ### AI & Data Science Student · AI Developer · Software Builder
