@@ -1,12 +1,11 @@
-<!--
-  GitHub Profile README
-  Repository: https://github.com/keerthana-saravana/keerthana-saravana
-  Replace project links/descriptions if your repository names differ.
--->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,45:312E81,100:06B6D4&text=Keerthana%20S&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Building%20Intelligent%20Products&descAlignY=58&descSize=16" width="100%" alt="Keerthana S — AI and Data Science" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0%3A0F172A%2C50%3A312E81%2C100%3A06B6D4&amp;height=220&amp;section=header&amp;text=Keerthana%20S&amp;fontSize=54&amp;fontColor=FFFFFF&amp;animation=fadeIn" width="100%" alt="Keerthana S — AI and Data Science" />
+
+<h3>AI &amp; Data Science Student · AI Developer · Software Builder</h3>
+
+
 
 <br/>
 
