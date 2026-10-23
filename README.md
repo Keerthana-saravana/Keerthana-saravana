@@ -6,12 +6,8 @@
 <h3>Machine Learning | Generative AI | Software Engineering</h3>
 
 <p>
-<a href="https://github.com/keerthana-saravana">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&amp;logo=github" alt="GitHub Profile"/>
-</a>
-<a href="https://www.linkedin.com/in/keerthana-saravanan-073a34314">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin" alt="LinkedIn Profile"/>
-</a>
+<a href="https://github.com/keerthana-saravana"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&amp;logo=github" alt="GitHub Profile"/></a>
+<a href="https://www.linkedin.com/in/keerthana-saravanan-073a34314"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin" alt="LinkedIn Profile"/></a>
 <img src="https://komarev.com/ghpvc/?username=keerthana-saravana&amp;style=for-the-badge&amp;color=2563EB&amp;label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
@@ -43,16 +39,12 @@ I am **Keerthana S**, a B.Tech student specializing in **Artificial Intelligence
 
 ## 🎯 Areas of Interest
 
-<div align="center">
-
 | 🤖 Artificial Intelligence | 📊 Data Science | 💻 Software Engineering |
 |:---:|:---:|:---:|
-| Machine Learning | Data Cleaning &amp; EDA | API Development |
+| Machine Learning | Data Cleaning & EDA | API Development |
 | Generative AI | Data Visualization | Web Development |
-| NLP &amp; Computer Vision | Feature Engineering | Database Design |
+| NLP & Computer Vision | Feature Engineering | Database Design |
 | Agentic AI | Model Evaluation | Application Development |
-
-</div>
 
 ---
 
@@ -86,30 +78,6 @@ I am **Keerthana S**, a B.Tech student specializing in **Artificial Intelligence
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/keerthana-saravana">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=keerthana-saravana&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;theme=tokyonight" alt="GitHub Profile Statistics"/>
-</a>
-
-<a href="https://github.com/keerthana-saravana">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana-saravana&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=tokyonight" alt="Most Used Programming Languages"/>
-</a>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=keerthana-saravana&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Contribution Streak"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=keerthana-saravana&amp;bg_color=1a1b27&amp;color=70a5fd&amp;line=38bdae&amp;point=bf91f3&amp;area=true&amp;hide_border=true" alt="GitHub Contribution Activity Graph"/>
-
-</div>
-
----
-
 ## 🌱 Currently Exploring
 
 - Artificial Intelligence and Applied Machine Learning
@@ -124,13 +92,8 @@ I am **Keerthana S**, a B.Tech student specializing in **Artificial Intelligence
 
 <div align="center">
 
-<a href="https://github.com/keerthana-saravana">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&amp;logo=github" alt="Explore My GitHub Projects"/>
-</a>
-
-<a href="https://www.linkedin.com/in/keerthana-saravanan-073a34314">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&amp;logo=linkedin" alt="Connect on LinkedIn"/>
-</a>
+<a href="https://github.com/keerthana-saravana"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&amp;logo=github" alt="Explore My GitHub Projects"/></a>
+<a href="https://www.linkedin.com/in/keerthana-saravanan-073a34314"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&amp;logo=linkedin" alt="Connect on LinkedIn"/>
 
 <br/><br/>
 
