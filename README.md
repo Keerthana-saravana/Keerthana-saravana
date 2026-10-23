@@ -10,8 +10,10 @@
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&amp;logo=github" alt="GitHub Profile"/>
 </a>
 <a href="https://www.linkedin.com/in/keerthana-saravanan-073a34314">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin" alt="LinkedIn Profile"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin" alt="Connect on LinkedIn"/>
 </a>
+
+<br/><br/>
 <img src="https://komarev.com/ghpvc/?username=keerthana-saravana&amp;style=for-the-badge&amp;color=2563EB&amp;label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
