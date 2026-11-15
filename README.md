@@ -1,157 +1,179 @@
 
-<div align="center">
+<!-- ===================== HEADER ===================== -->
 
-<img src="assets/mybanner.jpg" width="100%" alt="Keerthana Saravanan - AI Developer"/>
+<h1 align="center">Hi, I'm Keerthana 👋</h1>
 
-<br/>
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com/demo/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=55&lines=AI+%26+Data+Science+Student;AI+Developer+%7C+Software+Engineer;Building+Intelligent+Applications;Exploring+Generative+%26+Agentic+AI" alt="Typing Animation" />
+  </a>
+</p>
 
-**AI & DATA SCIENCE STUDENT | AI DEVELOPER | SOFTWARE ENGINEER**
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/keerthana-saravana)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthana-saravanan-073a34314)
-
-</div>
+<p align="center">
+  <a href="https://github.com/keerthana-saravana">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/keerthana-saravanan-073a34314">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
+
+<!-- ===================== ABOUT ===================== -->
 
 ## About Me
 
-I am **Keerthana Saravanan**, an Artificial Intelligence and Data Science undergraduate at **KGiSL Institute of Technology, Coimbatore**.
+I'm an **Artificial Intelligence and Data Science undergraduate** at **KGiSL Institute of Technology, Coimbatore**, passionate about building intelligent applications and solving real-world problems through technology.
 
-I enjoy building practical technology solutions by combining artificial intelligence, data-driven approaches, and software engineering.
+I enjoy working at the intersection of AI, data science, and software engineering, turning innovative ideas into practical solutions.
 
-My interests lie in developing intelligent applications, exploring emerging AI technologies, and transforming ideas into functional products.
-
-- Pursuing B.Tech in Artificial Intelligence and Data Science.
-- Exploring Machine Learning, Generative AI, and Agentic AI.
-- Interested in Data Analytics, NLP, and Computer Vision.
-- Building full-stack applications and AI-powered solutions.
-- Continuously improving my problem-solving and development skills.
+- 🎓 B.Tech – Artificial Intelligence and Data Science
+- 🤖 Exploring Machine Learning, Generative AI & Agentic AI
+- 📊 Interested in Data Analytics, NLP & Computer Vision
+- 💻 Developing full-stack and AI-powered applications
+- 🚀 Continuously learning, building, and improving
 
 ---
 
-## Technical Expertise
+<!-- ===================== SKILLS ===================== -->
+
+## Technical Skills
 
 **Programming Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,mysql" />
+</p>
 
-**AI & Data Science**
+**AI, Machine Learning & Data Science**
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102A43?style=flat-square)
-![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=flat-square)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-2563EB?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-0E7490?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-334155?style=flat-square)
-![Data Analytics](https://img.shields.io/badge/Data_Analytics-087E8B?style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-102A43?style=flat-square" />
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=flat-square" />
+  <img src="https://img.shields.io/badge/Agentic_AI-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/NLP-0E7490?style=flat-square" />
+  <img src="https://img.shields.io/badge/Computer_Vision-334155?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data_Analytics-087E8B?style=flat-square" />
+</p>
 
 **Libraries & Frameworks**
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv,numpy,react,nodejs,flutter" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+</p>
 
 **Databases & Cloud**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,supabase,firebase" />
+</p>
 
-**Tools & Platforms**
+**Development Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,vercel" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+</p>
 
 ---
+
+<!-- ===================== EXPERIENCE ===================== -->
 
 ## Professional Experience
 
-**Generative AI Intern — Connected Value Health Solutions**
+### Generative AI Intern
+**Connected Value Health Solutions** | May 2026 – June 2026
 
-*May 2026 – June 2026*
+- Contributed to HS Assist AI, a healthcare data quality and analysis solution.
+- Explored LLM integration and Retrieval-Augmented Generation (RAG).
+- Worked on data validation, visualization, and automated reporting workflows.
+- Gained practical experience in AI-powered application development.
 
-- Worked on HS Assist AI, a healthcare data quality and analysis solution.
-- Explored AI-powered workflows, LLM integration, and Retrieval-Augmented Generation.
-- Contributed to data validation, visualization, and automated reporting workflows.
+### AI & Data Science Intern
+**Rinex Technology** | January 2026 – March 2026
 
-**AI & Data Science Intern — Rinex Technology**
-
-*January 2026 – March 2026*
-
-- Worked on InsightFlow AI, a data analytics application.
-- Explored backend development, database integration, and data processing.
-- Developed practical experience with APIs and full-stack application workflows.
+- Contributed to InsightFlow AI, a business data analytics application.
+- Worked with backend development and database integration.
+- Explored API development, data processing, and full-stack workflows.
 
 ---
+
+<!-- ===================== PROJECTS ===================== -->
 
 ## Featured Projects
 
-**CaseFile AI** — AI-Powered Cybersecurity Analysis
+### 1. CaseFile AI
+**AI-Powered Cybersecurity Analysis**
 
-An intelligent cybersecurity solution combining machine learning, explainable AI, and threat intelligence to support malware analysis and threat investigation.
+An intelligent cybersecurity platform combining machine learning, explainable AI, and threat intelligence to support malware analysis and security investigations.
 
-*Technologies: Python, FastAPI, XGBoost, SHAP, React, Supabase*
+`Python` `FastAPI` `XGBoost` `SHAP` `React` `Supabase`
 
-**HS Assist AI** — Healthcare Data Intelligence
+### 2. HS Assist AI
+**Healthcare Data Intelligence**
 
-An AI-powered data quality solution designed to identify data issues, generate analytical insights, and automate reporting workflows.
+An AI-powered healthcare data quality solution designed to identify data issues, generate analytical insights, visualize errors, and automate reporting workflows.
 
-*Technologies: Python, Generative AI, RAG, React, Supabase*
+`Python` `Generative AI` `RAG` `React` `Supabase`
 
-**InsightFlow AI** — Data Analytics Platform
+### 3. InsightFlow AI
+**Business Data Analytics Platform**
 
-A data-driven application focused on processing business data, backend integration, and analytical workflows.
+A data-driven application focused on processing business datasets, backend integration, and analytical workflows.
 
-*Technologies: Node.js, Express, PostgreSQL, React*
+`Node.js` `Express.js` `PostgreSQL` `React`
 
-**Avenza AI** — Business Intelligence Solution
+### 4. Avenza AI
+**Business Intelligence Solution**
 
-An AI-enabled business dashboard concept designed to help small businesses understand their operations and make informed decisions.
+An AI-enabled dashboard concept designed to help small businesses understand their operations and make informed business decisions.
 
-*Technologies: Python, GenAI, React, Firebase*
+`Python` `GenAI` `React` `Firebase`
+
+---
+
+<!-- ===================== GITHUB ANALYTICS ===================== -->
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=keerthana-saravana&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana-saravana&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=keerthana-saravana&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+## Contribution Activity
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=keerthana-saravana&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" />
+</p>
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=keerthana-saravana&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub Statistics"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana-saravana&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Top Languages"/>
-
-</div>
-
----
+<!-- ===================== CONNECT ===================== -->
 
 ## Let's Connect
 
-I am always interested in connecting with fellow developers, exploring innovative ideas, collaborating on projects, and learning about opportunities in AI and software development.
+I'm always open to collaborating on innovative projects, exploring emerging technologies, and connecting with developers who enjoy building meaningful solutions.
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/keerthana-saravana">
+    <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/keerthana-saravanan-073a34314">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Projects-181717?style=for-the-badge&logo=github)](https://github.com/keerthana-saravana)
+<p align="center">
+  <i>Building with purpose. Learning with curiosity. Growing through innovation.</i>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/keerthana-saravanan-073a34314)
-
-<br/>
-
-**Building with purpose. Learning with curiosity. Growing through innovation.**
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=3&section=footer" />
+</p>
