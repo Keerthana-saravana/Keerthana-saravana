@@ -148,25 +148,30 @@ An AI-enabled business dashboard concept designed to help small businesses monit
 
 
 
+
 ## GitHub Contribution Activity
 
-### Daily Contribution Calendar
-
 <p align="center">
-  <img
-    src="https://ghchart.xqsit94.in/dark:default/keerthana-saravana"
-    width="100%"
-    alt="GitHub Daily Green Contribution Calendar"
-  />
+  <a href="https://github.com/keerthana-saravana">
+    <img
+      src="https://ghchart.rshah.org/26a641/keerthana-saravana"
+      width="100%"
+      alt="GitHub Contribution Calendar"
+    />
+  </a>
 </p>
 
-### Contribution Activity Graph
+<p align="center">
+  <a href="https://github.com/keerthana-saravana">
+    View my live GitHub profile and interactive contribution calendar →
+  </a>
+</p>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=keerthana-saravana&bg_color=0d1117&color=39d353&line=26a641&point=39d353&area=true&area_color=0e4429&hide_border=true&custom_title=GitHub%20Contribution%20Activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=keerthana-saravana&bg_color=0d1117&color=39d353&line=26a641&point=39d353&area=true&area_color=0e4429&hide_border=true"
     width="100%"
-    alt="GitHub Contribution Activity"
+    alt="Contribution Activity Graph"
   />
 </p>
 
