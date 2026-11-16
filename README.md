@@ -146,15 +146,29 @@ An AI-enabled business dashboard concept designed to help small businesses monit
 
 `Python` `Generative AI` `React` `Firebase`
 
----
 
 ## GitHub Contribution Activity
 
+### Daily Contribution Calendar
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keerthana-saravana&bg_color=0d1117&color=38bdf8&line=6366f1&point=ffffff&area=true&area_color=1e3a5f&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution graph"/>
+  <img
+    src="https://ghchart.rshah.org/38BDF8/keerthana-saravana"
+    alt="Daily GitHub Contribution Calendar"
+    width="100%"
+  />
 </p>
 
----
+### Contribution Activity Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=keerthana-saravana&bg_color=0d1117&color=38bdf8&line=6366f1&point=ffffff&area=true&area_color=1e3a5f&hide_border=true&custom_title=GitHub%20Contribution%20Activity"
+    width="100%"
+    alt="GitHub Contribution Activity Graph"
+  />
+</p>
+
 
 ## Let's Connect
 
