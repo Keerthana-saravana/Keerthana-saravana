@@ -153,16 +153,6 @@ An AI-enabled business dashboard concept designed to help small businesses monit
 
 <p align="center">
   <a href="https://github.com/keerthana-saravana">
-    <img
-      src="https://ghchart.rshah.org/26a641/keerthana-saravana"
-      width="100%"
-      alt="GitHub Contribution Calendar"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/keerthana-saravana">
     View my live GitHub profile and interactive contribution calendar →
   </a>
 </p>
