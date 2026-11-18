@@ -193,17 +193,7 @@ An AI-enabled business dashboard concept designed to help small businesses monit
 
 <h2 align="center">GitHub Analytics</h2>
 
-<h3 align="center">Daily Contribution Calendar</h3>
 
-<p align="center">
-  <a href="https://github.com/keerthana-saravana">
-    <img
-      src="https://contribkit.app/user/keerthana-saravana.svg?palette=github&shape=square&background=%230d1117"
-      width="100%"
-      alt="GitHub Daily Contribution Calendar"
-    />
-  </a>
-</p>
 
 <p align="center">
   <i>Every green square represents a day of contribution. Keep building, keep growing!</i>
