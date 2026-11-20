@@ -1,4 +1,4 @@
-
+ 
 <!-- ================= PROFILE HEADER ================= -->
 
 <h1 align="center">Keerthana Saravanan</h1>
@@ -105,26 +105,69 @@ I enjoy experimenting with emerging technologies, developing practical applicati
 
 ## Professional Experience
 
-### Generative AI Intern
+<p align="center">
+  <i>Building practical experience through internships, real-world projects and continuous learning.</i>
+</p>
 
-**Connected Value Health Solutions**
+<table width="100%">
+<tr>
+<td width="100%" valign="top">
 
-<sub>May 2026 – June 2026</sub>
+<h3>🤖 Generative AI Intern</h3>
 
-- Contributed to HS Assist AI, a healthcare data quality and intelligence solution.
+<strong>Connected Value Health Solutions</strong>
+
+<img src="https://img.shields.io/badge/May_2026-June_2026-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Healthcare_AI-7C3AED?style=flat-square"/>
+
+<br/>
+
+**Project: HS Assist AI**
+
+An AI-powered healthcare data quality and intelligence solution.
+
+**Key Contributions**
 - Explored LLM integration and Retrieval-Augmented Generation (RAG).
-- Worked on data validation, visual analytics, and automated reporting.
-- Gained practical experience in AI-powered application development.
+- Contributed to healthcare data validation and quality analysis.
+- Worked on identifying problematic records and generating insights.
+- Explored visual analytics and automated reporting workflows.
 
-### AI & Data Science Intern
+**Technology Stack**
 
-**Rinex Technology**
+`Python` `Agentic AI` `LLMs` `RAG` `React` `Supabase`
 
-<sub>January 2026 – March 2026</sub>
+</td>
+</tr>
 
-- Worked on InsightFlow AI, a business data analytics platform.
-- Explored backend development and database integration.
-- Worked with APIs, data processing, and full-stack application workflows.
+<tr>
+<td width="100%" valign="top">
+
+<h3>💻 AI & Data Science Intern</h3>
+
+<strong>Rinex Technology</strong>
+
+<img src="https://img.shields.io/badge/January_2026-March_2026-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data_Analytics-0E7490?style=flat-square"/>
+
+<br/>
+
+**Project: InsightFlow AI**
+
+A business data analytics platform focused on data processing and analytical workflows.
+
+**Key Contributions**
+- Explored backend application development.
+- Worked with API integration and database connectivity.
+- Contributed to data processing workflows.
+- Gained practical exposure to full-stack application development.
+
+**Technology Stack**
+
+`Python` `Node.js` `Express.js` `PostgreSQL` `React`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -132,37 +175,142 @@ I enjoy experimenting with emerging technologies, developing practical applicati
 
 ## Featured Projects
 
-### CaseFile AI
+<p align="center">
+  <i>Transforming ideas into intelligent applications through AI, engineering and innovation.</i>
+</p>
 
-**AI-Powered Cybersecurity Intelligence**
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-An intelligent cybersecurity platform combining machine learning, explainable AI, and threat intelligence to support malware analysis and security investigations.
+<h3>🛡️ CaseFile AI</h3>
+
+<strong>AI-Powered Cybersecurity Intelligence</strong>
+
+<img src="https://img.shields.io/badge/Cybersecurity-EF4444?style=flat-square"/>
+<img src="https://img.shields.io/badge/Explainable_AI-7C3AED?style=flat-square"/>
+
+An intelligent cybersecurity platform designed to support malware analysis, threat detection and security investigations.
+
+**Key Highlights**
+- Machine learning-based threat classification.
+- Explainable AI using SHAP.
+- Malware analysis and threat intelligence.
+- MITRE ATT&CK mapping.
+
+**Tech Stack**
 
 `Python` `FastAPI` `XGBoost` `SHAP` `React` `Supabase`
 
-### HS Assist AI
+</td>
 
-**Healthcare Data Quality Intelligence**
+<td width="50%" valign="top">
 
-An AI-powered healthcare data solution designed to identify data quality issues, locate problematic records, generate insights, and automate reporting workflows.
+<h3>🏥 HS Assist AI</h3>
+
+<strong>Healthcare Data Quality Intelligence</strong>
+
+<img src="https://img.shields.io/badge/Healthcare_AI-0E7490?style=flat-square"/>
+<img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=flat-square"/>
+
+An AI-powered healthcare data solution designed to identify data quality issues and generate actionable insights.
+
+**Key Highlights**
+- Automated data quality validation.
+- Identification of problematic records.
+- AI-powered data insights.
+- Automated reporting workflows.
+
+**Tech Stack**
 
 `Python` `LLMs` `RAG` `React` `Supabase`
 
-### InsightFlow AI
+</td>
+</tr>
 
-**Business Data Analytics Platform**
+<tr>
+<td width="50%" valign="top">
 
-A data-driven application focused on business dataset processing, backend integration, and analytical workflows.
+<h3>📊 InsightFlow AI</h3>
+
+<strong>Business Data Analytics Platform</strong>
+
+<img src="https://img.shields.io/badge/Data_Analytics-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Full_Stack-334155?style=flat-square"/>
+
+A data-driven application focused on business dataset processing, backend integration and analytical workflows.
+
+**Key Highlights**
+- Business dataset processing.
+- Backend API development.
+- Database integration.
+- Analytical workflow implementation.
+
+**Tech Stack**
 
 `Node.js` `Express.js` `PostgreSQL` `React`
 
-### Avenza AI
+</td>
 
-**Small Business Intelligence**
+<td width="50%" valign="top">
+
+<h3>🚀 Avenza AI</h3>
+
+<strong>Small Business Intelligence</strong>
+
+<img src="https://img.shields.io/badge/Business_AI-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Innovation-7C3AED?style=flat-square"/>
 
 An AI-enabled business dashboard concept designed to help small businesses monitor operations and make informed decisions.
 
+**Key Highlights**
+- Small business dashboard concept.
+- Business operation monitoring.
+- AI-enabled insights.
+- Designed for boutique, bakery and salon workflows.
+
+**Tech Stack**
+
 `Python` `Generative AI` `React` `Firebase`
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ================= AREAS OF INTEREST ================= -->
+
+## Areas of Interest
+
+<table width="100%">
+<tr>
+<td align="center" width="25%">
+  <h3>🤖</h3>
+  <strong>Artificial Intelligence</strong>
+  <br/>
+  <sub>Intelligent Systems & ML</sub>
+</td>
+<td align="center" width="25%">
+  <h3>🧠</h3>
+  <strong>Generative AI</strong>
+  <br/>
+  <sub>LLMs & Agentic AI</sub>
+</td>
+<td align="center" width="25%">
+  <h3>📊</h3>
+  <strong>Data Science</strong>
+  <br/>
+  <sub>Analytics & Insights</sub>
+</td>
+<td align="center" width="25%">
+  <h3>💻</h3>
+  <strong>Engineering</strong>
+  <br/>
+  <sub>Software & Applications</sub>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -192,8 +340,6 @@ An AI-enabled business dashboard concept designed to help small businesses monit
 <!-- ================= GITHUB ANALYTICS ================= -->
 
 <h2 align="center">GitHub Analytics</h2>
-
-
 
 <p align="center">
   <i>Every green square represents a day of contribution. Keep building, keep growing!</i>
@@ -248,4 +394,10 @@ An AI-enabled business dashboard concept designed to help small businesses monit
 
 <p align="center">
   <i>Consistency creates progress. Every contribution counts.</i>
+</p>
+
+---
+
+<p align="center">
+  <sub>Designed and maintained by Keerthana Saravanan | 2026</sub>
 </p>
